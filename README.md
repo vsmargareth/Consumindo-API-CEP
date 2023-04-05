@@ -1,5 +1,5 @@
 # Consumindo-API-CEP
-![capa](img/capa.png)
+![capa](capa.png)
 
 ## Aprendido através do vídeo do professor Fernando Leonid
 https://www.youtube.com/watch?v=imk6Y0viabg
